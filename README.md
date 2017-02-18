@@ -12,11 +12,12 @@ This slope is more apparent with the height exagerated 30 times.
 ![](ShallowRiverBanks.jpg)
 
 ### Canal Banks
-Canal banks may be steeper, allowing certain land use to be closer in.  In the google map below, note how close Tampa Executive airport and many structures are to the Tampa Bypass canal.
+Canal banks may be steeper, allowing certain land use to be closer in.  In the google map below, note how close Tampa Executive airport and many structures are to the Tampa Bypass canal. 
 ![](NormalCanal301.jpg)
+In this image, note U.S. 301, the line from the bottom right to the top middle.
 
-This slope is more apparent with the height exagerated 30 times.
 ![](SteepCanalBanks.jpg)
+This slope is more apparent with the height exagerated 30 times.
 
 ## Canal Course vs River Course
 ![](Canal_Course.png) 
