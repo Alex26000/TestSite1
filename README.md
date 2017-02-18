@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 # Header 1
 Eskimo
-# Header 2
+## Header 2
 Fish lipped guy
-# Header 3
+### Header 3
 BANDS
 
 You can use the [editor on GitHub](https://github.com/Alex26000/TestSite1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
