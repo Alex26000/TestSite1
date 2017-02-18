@@ -3,6 +3,7 @@ This site uses maps and 3d illustrations to highlight some differences between c
 
 ## Canal Course vs River Course
 ![](Canal_Course.png) 
+
 This image shows the course of a canal (created from NOAA DEM)
 
 ![](AlafiaCourse.png)
