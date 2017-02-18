@@ -3,7 +3,7 @@ This site uses maps and 3d illustrations to highlight some differences between c
 
 LiDAR point clouds are collections of points.  Each point has a known elevation value. A Digital Elevation Model (DEM) is derived from a collection of these points. Points can be symbolized based on various ideas. Here, they are generally symbolized by elevation.
 
-LiDAR data is collect by airplane overflights.  The images on this site were derrived from LiDAR data that NOAA gathered.
+LiDAR data is collect by airplane overflights.  The images on this site were derrived from LiDAR data that NOAA gathered. LiDAR can be great for show the elevation around areas that would take a long time to ground-survey.
 
 ## River banks vs Canal banks
 
