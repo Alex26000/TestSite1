@@ -44,3 +44,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 ### Canal Course vs River Course
 [This image shows the course of a canal (created from NOAA DEM)]https://github.com/Alex26000/TestSite1/blob/master/Canal_Course.png
+
+# Elevation
+Elevation may vary more near a river than near a canal.
+In these images, red is lower elevation.  Elevation climbes from red through yellows to greens.
+### Canal Elevation
+![The elevation near canals is made made.]https://github.com/Alex26000/TestSite1/blob/master/elevCanal.jpg
+### River Elevation
+![Note the broader elevation of the river, which poses more of a flood risk]https://github.com/Alex26000/TestSite1/blob/master/elevRiver.jpg
