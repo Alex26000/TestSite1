@@ -56,4 +56,4 @@ The river has broader areas of lower elevation, which poses more of a flood risk
 
 
 ## Credits
-Images were ArcMap and ARCScene screenshots which depicted default stretch and elevation classification schemes.  The data was from National Oceanicogrpahic & Atmospheric Administration's Sea Level Rise Digital Elevation model of the Tampa Bay area. This data is the "NOAA Sea Level Rise Viewer DEM" and can be found [here](https://coast.noaa.gov/dataviewer/#/lidar/search/-9178176.171342539,3229235.1339638405,-9157385.29964897,3253771.4200433823)
+Images were ArcMap and ARCScene screenshots which depicted stretch and elevation classification schemes.  The data was from National Oceanicogrpahic & Atmospheric Administration's Sea Level Rise Digital Elevation model of the Tampa Bay area. This data is the "NOAA Sea Level Rise Viewer DEM" and can be found [here](https://coast.noaa.gov/dataviewer/#/lidar/search/-9178176.171342539,3229235.1339638405,-9157385.29964897,3253771.4200433823)
