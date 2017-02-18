@@ -46,7 +46,7 @@ Google Maps prove a satellite illustration
 
 ## Elevation
 Elevation may vary more near a river than near a canal.
-Thanks to elevation information computed from the LiDAR scans, we can show a terrain elevations for every 5 meter x 5 meter cell.  In some data sets, these cells are even smaller. This is one of the more valuable uses of of a remotely sensed DEM. In these images, red is lower elevation.  Elevation climbes from red through yellows to greens.  _As usual, true North is toward the top of the image_
+Thanks to elevation information computed from the LiDAR scans, we can show a terrain elevations for every 5 meter x 5 meter cell.  In some data sets, these cells are even smaller. This is one of the more valuable uses of of a remotely sensed DEM.  In these images, red is lower elevation.  Elevation climbs from red through yellows to greens.  _As usual, true North is toward the top of the image_
 ### Canal Elevation
 The elevation near canals is made made. It can also be quite steep, permitting closer-in land use.
 ![](elevCanal.jpg)
