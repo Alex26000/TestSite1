@@ -1,11 +1,16 @@
 # Canals and Rivers: A comparison
 This site uses maps and 3d illustrations to highlight some differences between canals and Rivers. For the sake of example, we explore the Tampa Bypass canal and the Alafia River.  Additionally, the role of remote sensing is explored.
 
+LiDAR point clouds are collections of points.  Each point has a known elevation value. A Digital Elevation Model (DEM) is derived from a collection of these points. Points can be symbolized based on various ideas. Here, they are generally symbolized by elevation.
+
+LiDAR data is collect by airplane overflights.  The images on this site were derrived from LiDAR data that NOAA gathered.
+
 ## River banks vs Canal banks
 
 ### River Banks
+The DEM here is used to show the slope of banks, which may be of interest to flood planning.
 
-Natural rivers may have shallower banks
+Natural rivers may have shallower banks.
 ![](NormalRiver.jpg)
 
 This slope is more apparent with the height exagerated 30 times.
@@ -20,6 +25,8 @@ In this image, note U.S. 301, the line from the bottom right to the top middle.
 This slope is more apparent with the height exagerated 30 times.
 
 ## Canal Course vs River Course
+Here, the DEM is shown twice.  The land area is show by "draping" the DEM over its elevation data; giving it a 3D look.  The river and canal are shown with the lowest elevation (their only visible part) shown in blue.
+
 ![](Canal_Course.png) 
 
 This image shows the course of a canal (created from NOAA DEM)
@@ -39,9 +46,9 @@ Google Maps prove a satellite illustration
 
 ## Elevation
 Elevation may vary more near a river than near a canal.
-In these images, red is lower elevation.  Elevation climbes from red through yellows to greens.  _As usual, true North is toward the top of the image_
+Thanks to elevation information computed from the LiDAR scans, we can show a terrain elevations for every 5 meter x 5 meter cell.  In some data sets, these cells are even smaller. This is one of the more valuable uses of of a remotely sensed DEM. In these images, red is lower elevation.  Elevation climbes from red through yellows to greens.  _As usual, true North is toward the top of the image_
 ### Canal Elevation
-The elevation near canals is made made.
+The elevation near canals is made made. It can also be quite steep, permitting closer-in land use.
 ![](elevCanal.jpg)
 ### River Elevation
 The river has broader areas of lower elevation, which poses more of a flood risk. _This map uses the same legend as the canal map._
