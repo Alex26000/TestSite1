@@ -47,7 +47,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Elevation
 Elevation may vary more near a river than near a canal.
-In these images, red is lower elevation.  Elevation climbes from red through yellows to greens.  As usual, true North is toward the top of the image
+In these images, red is lower elevation.  Elevation climbes from red through yellows to greens.  _As usual, true North is toward the top of the image
 ### Canal Elevation
 The elevation near canals is made made.
 ![](elevCanal.jpg)
