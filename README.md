@@ -46,3 +46,7 @@ The elevation near canals is made made.
 ### River Elevation
 The river has broader areas of lower elevation, which poses more of a flood risk. _This map uses the same legend as the canal map._
 ![](elevRiver.jpg)
+
+
+## Credits
+Images were ArcMap and ARCScene screenshots.  The data was based on NOAA's SLR Digital Elevation model.
