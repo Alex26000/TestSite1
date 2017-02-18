@@ -1,6 +1,22 @@
 # Canals and Rivers: A comparison
 This site uses maps and 3d illustrations to highlight some differences between canals and Rivers. For the sake of example, we explore the Tampa Bypass canal and the Alafia River.  Additionally, the role of remote sensing is explored.
 
+## River banks vs Canal banks
+
+### River Banks
+
+Natural rivers may have shallower banks
+
+![](ShallowRiverBanks.jpg)
+In this particular image, the height is exagerated by 30 times
+
+### Canal Banks
+
+![](SteepCanalBanks.jpg)
+In this particular image, the height is exagerated by 30 times
+
+Canal banks may be steeper, allow certain land use to be closer in.  In the google map below, note how close the Uceta Railyard and Tampa Executive airport are to the Tampa Bypass canal.
+
 ## Canal Course vs River Course
 ![](Canal_Course.png) 
 
