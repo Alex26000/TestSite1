@@ -49,4 +49,4 @@ The river has broader areas of lower elevation, which poses more of a flood risk
 
 
 ## Credits
-Images were ArcMap and ARCScene screenshots.  The data was based on NOAA's SLR Digital Elevation model.
+Images were ArcMap and ARCScene screenshots which depicted default stretch and elevation classification schemes.  The data was from NOAA's SLR Digital Elevation model of the Tampa Bay area.
