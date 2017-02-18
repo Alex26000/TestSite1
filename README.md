@@ -49,6 +49,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Elevation may vary more near a river than near a canal.
 In these images, red is lower elevation.  Elevation climbes from red through yellows to greens.
 ### Canal Elevation
-![The elevation near canals is made made.](elevCanal.jpg)
+The elevation near canals is made made.
+![](elevCanal.jpg)
 ### River Elevation
-![Note the broader elevation of the river, which poses more of a flood risk](elevRiver.jpg)
+Note the broader elevation of the river, which poses more of a flood risk
+![](elevRiver.jpg)
