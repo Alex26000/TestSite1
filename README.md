@@ -15,7 +15,7 @@ In this particular image, the height is exagerated by 30 times
 ![](SteepCanalBanks.jpg)
 In this particular image, the height is exagerated by 30 times
 
-Canal banks may be steeper, allow certain land use to be closer in.  In the google map below, note how close the Uceta Railyard and Tampa Executive airport are to the Tampa Bypass canal.
+Canal banks may be steeper, allow certain land use to be closer in.  In the google map below, note how close Tampa Executive airport and many structures are to the Tampa Bypass canal.
 
 ## Canal Course vs River Course
 ![](Canal_Course.png) 
