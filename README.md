@@ -42,3 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![This image shows the course of a canal (created from NOAA DEM)]https://github.com/Alex26000/TestSite1/blob/master/Canal_Course.png
