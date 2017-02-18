@@ -1,5 +1,5 @@
 # Canals and Rivers: A comparison
-This site uses maps and 3d illustrations to highlight some differences between canals and Rivers. For the sake of example, we explore the Tampa Bypass canal and the Alafia River
+This site uses maps and 3d illustrations to highlight some differences between canals and Rivers. For the sake of example, we explore the Tampa Bypass canal and the Alafia River.  Additionally, the role of remote sensing is explored.
 
 ## Canal Course vs River Course
 ![](Canal_Course.png) 
